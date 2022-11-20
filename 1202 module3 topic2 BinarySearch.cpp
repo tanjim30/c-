@@ -10,7 +10,7 @@ public:
     void Search(int ax[], int n, int x)
     {
         Beg=0;
-        End = n-1;
+        End = n;
 
         while(Beg <= End)
         {
